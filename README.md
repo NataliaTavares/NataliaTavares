@@ -1,6 +1,6 @@
 ### Hi there 👋
 Contactme-me on:
-[Linked/in](https://www.linkedin.com/in/natalia-aparecida-tavares)
+[Linkedin](https://www.linkedin.com/in/natalia-aparecida-tavares)
 
 https://qr-codes-nine.vercel.app/api?url=https://www.linkedin.com/in/natalia-aparecida-tavares
 
