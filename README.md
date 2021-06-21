@@ -1,10 +1,11 @@
 ### Hi there 👋
 Contata-me com:
-
 [Linkedin](https://www.linkedin.com/in/natalia-aparecida-tavares)
+
 [![My website](https://qr-codes-nine.vercel.app/api?url=https://www.linkedin.com/in/natalia-aparecida-tavares)](https://www.linkedin.com/in/natalia-aparecida-tavares)
 
 [Telegram](https://t.me/Natyy15)
+
 [![My contact](https://qr-codes-nine.vercel.app/api?url=https://t.me/Natyy15)](https://t.me/Natyy15)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NataliaTavares&repo=QrCodes)](https://github.com/NataliaTavares/QrCodes)
