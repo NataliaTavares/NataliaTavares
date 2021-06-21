@@ -1,4 +1,8 @@
 ### Hi there 👋
+Contactme-me on:
+[Linked/in](https://www.linkedin.com/in/natalia-aparecida-tavares)
+
+https://qr-codes-nine.vercel.app/api?url=https://www.linkedin.com/in/natalia-aparecida-tavares
 
 <!--
 **NataliaTavares/NataliaTavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Natalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliaTavares&show_icons=true&theme=radical)
