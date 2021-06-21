@@ -2,7 +2,7 @@
 Contactme-me on:
 [Linkedin](https://www.linkedin.com/in/natalia-aparecida-tavares)
 
-[![Readme Card]https://qr-codes-nine.vercel.app/api?url=https://www.linkedin.com/in/natalia-aparecida-tavares](https://www.linkedin.com/in/natalia-aparecida-tavares)
+[![My website](https://qr-codes-nine.vercel.app/api?url=https://www.linkedin.com/in/natalia-aparecida-tavares)(https://www.linkedin.com/in/natalia-aparecida-tavares)
 
 <!--
 **NataliaTavares/NataliaTavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
