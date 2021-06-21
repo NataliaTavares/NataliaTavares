@@ -3,7 +3,8 @@ Contactme-me on:
 [Linkedin](https://www.linkedin.com/in/natalia-aparecida-tavares)
 
 [![My website](https://qr-codes-nine.vercel.app/api?url=https://www.linkedin.com/in/natalia-aparecida-tavares)](https://www.linkedin.com/in/natalia-aparecida-tavares)
-[![Readme Card](https://github.com/NataliaTavares/QrCodes?username=NataliaTavares&repo=QrCodes)](https://https://github.com/NataliaTavares/QrCodes)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NataliaTavares&repo=QrCodes)](https://github.com/NataliaTavares/QrCodes)
 
 
 <!--
