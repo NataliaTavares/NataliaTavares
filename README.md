@@ -1,5 +1,5 @@
 ### Hi there 👋
-Contactme-me on:
+Contata-me com:
 [Linkedin](https://www.linkedin.com/in/natalia-aparecida-tavares)
 
 [![My website](https://qr-codes-nine.vercel.app/api?url=https://www.linkedin.com/in/natalia-aparecida-tavares)](https://www.linkedin.com/in/natalia-aparecida-tavares)
