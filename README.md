@@ -18,7 +18,7 @@ Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob
 </a>
 
 <a href="https://storyset.com/data" target="_blank">
- <img align="right" width="450px" src="Completed steps-amico.png"> </a>
+ <img align="right" width="400px" src="Completed steps-amico.png"> </a>
 
 <br><br>
 
@@ -31,16 +31,6 @@ Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob
 <br><br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NataliaTavares&show_owner&repo=QrCodes&show_owner&theme=dark)](https://github.com/NataliaTavares/QrCodes)
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -59,4 +49,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Natalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliaTavares&show_icons=true&theme=radical)
