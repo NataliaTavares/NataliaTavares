@@ -20,7 +20,7 @@ Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob
 <a href="https://storyset.com/data" target="_blank">
  <img align="right" width="400px" src="Completed steps-amico.png"> </a>
  
- <br>
+ <br><br>
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
 
