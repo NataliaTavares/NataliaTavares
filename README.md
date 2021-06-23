@@ -18,17 +18,14 @@ Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob
 </a>
 
 <a href="https://storyset.com/data" target="_blank">
- <img align="right" width="400px" src="Completed steps-amico.png"> </a>
+ <img align="right" width="350px" src="Completed steps-amico.png"> </a>
 
-<br><br>
 
 ![Natalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliaTavares&show_icons=true&theme=radical&hide=prs,issues,contribs)
 
-<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
 
-<br><br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NataliaTavares&show_owner&repo=QrCodes&show_owner&theme=dark)](https://github.com/NataliaTavares/QrCodes)
 
