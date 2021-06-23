@@ -1,16 +1,47 @@
-### Hi there 👋
-Contata-me com:
-[Linkedin](https://www.linkedin.com/in/natalia-aparecida-tavares)
+Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-[![My website](https://qr-codes-nine.vercel.app/api?url=https://www.linkedin.com/in/natalia-aparecida-tavares)](https://www.linkedin.com/in/natalia-aparecida-tavares)
+😄Meu nome é Natalia sou estudante de Analise e desenvolvimento de Sistemas na faculdade Impacta.<br>
+🌱Atualmente estou aprendendo sobre Python e banco de dados<br>
 
-[Telegram](https://t.me/Natyy15)
+📫Como entrar em contato comigo:
+[Linkedin](https://www.linkedin.com/in/natalia-aparecida-tavares) & [Telegram](https://t.me/Natyy15) & [GitHub](https://www.github.com/NataliaTavares) & <a href="mailto:natalia.tavares15@outlook.com">E-mail</a> 
 
-[![My contact](https://qr-codes-nine.vercel.app/api?url=https://t.me/Natyy15)](https://t.me/Natyy15)
+<a href="https://www.linkedin.com/in/natalia-aparecida-tavares" target="_blank">
+  <img src="linkedin.PNG"  width="120" height="120" style="margin-right: 30px" >
+</a>
+<a href="https://t.me/Natyy15" target="_blank">
+  <img src="telegram.PNG"  width="120" height="120" style="margin-right: 30px" >
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NataliaTavares&repo=QrCodes)](https://github.com/NataliaTavares/QrCodes)
+<a href="https://www.github.com/NataliaTavares" target="_blank">
+  <img src="github.PNG"  width="120" height="120" >
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://storyset.com/data" target="_blank">
+ <img align="right" width="450px" src="Completed steps-amico.png"> </a>
+
+<br><br>
+
+![Natalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliaTavares&show_icons=true&theme=radical&hide=prs,issues,contribs)
+
+<br><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
+
+<br><br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NataliaTavares&show_owner&repo=QrCodes&show_owner&theme=dark)](https://github.com/NataliaTavares/QrCodes)
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!--
