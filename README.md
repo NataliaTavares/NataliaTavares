@@ -1,6 +1,6 @@
 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-😄Meu nome é Natalia sou estudante de Analise e desenvolvimento de Sistemas na faculdade Impacta.<br>
+😄Meu nome é Natalia,sou estudante de Analise e desenvolvimento de Sistemas na faculdade Impacta.<br>
 🌱Atualmente estou aprendendo sobre Python e banco de dados<br>
 
 📫Como entrar em contato comigo:
