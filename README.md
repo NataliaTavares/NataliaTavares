@@ -27,7 +27,7 @@ Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob
 
 ![Natalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliaTavares&show_icons=true&theme=radical&hide=prs,issues,contribs)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NataliaTavares&show_owner&repo=QrCodes&show_owner&theme=dark)](https://github.com/NataliaTavares/QrCodes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NataliaTavares&show_owner&repo=Aplicacoes_Python&show_owner&theme=dark)](https://github.com/NataliaTavares/Aplicacoes_Python)
 
 
 
