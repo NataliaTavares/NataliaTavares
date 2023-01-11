@@ -1,10 +1,10 @@
-Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+Hello World ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 😄Meu nome é Natalia, sou estudante de Analise e desenvolvimento de Sistemas na faculdade Impacta.<br>
 🌱Atualmente estou aprendendo sobre JavaScript, React, Python e banco de dados<br>
 
 📫Como entrar em contato comigo:
-[Linkedin](https://www.linkedin.com/in/natalia-aparecida-tavares) & [Telegram](https://t.me/Natyy15) & [GitHub](https://www.github.com/NataliaTavares) & <a href="mailto:natalia.tavares15@outlook.com">E-mail</a> 
+[Linkedin](https://www.linkedin.com/in/natalia-aparecida-tavares) & [Telegram](https://t.me/Natyy15) & [GitHub](https://www.github.com/NataliaTavares) & <a href="mailto:natalia.tavares15@outlook.com">E-mail</a>
 
 <!--
 <a href="https://www.linkedin.com/in/natalia-aparecida-tavares" target="_blank">
@@ -20,16 +20,20 @@ Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob
 
 <a href="https://storyset.com/data" target="_blank">
  <img align="right" width="400px" src="Completed steps-amico.png"> </a>
- 
+
  <br><br>
 -->
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Natalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliaTavares&show_icons=true&theme=radical&hide=prs,issues,contribs)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NataliaTavares&show_owner&repo=Aplicacoes_Python&show_owner&theme=dark)](https://github.com/NataliaTavares/Aplicacoes_Python)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NataliaTavares&show_owner&repo=Sistema-de-cadastro-de-livros&show_owner&theme=dark)](https://github.com/NataliaTavares/Sistema-de-cadastro-de-livros)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NataliaTavares&show_owner&repo=Projeto_Orkut&show_owner&theme=dark)](https://github.com/NataliaTavares/Projeto_Orkut)
+
 
 
 
@@ -47,4 +51,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
