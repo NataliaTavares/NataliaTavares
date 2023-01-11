@@ -6,6 +6,7 @@ Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob
 📫Como entrar em contato comigo:
 [Linkedin](https://www.linkedin.com/in/natalia-aparecida-tavares) & [Telegram](https://t.me/Natyy15) & [GitHub](https://www.github.com/NataliaTavares) & <a href="mailto:natalia.tavares15@outlook.com">E-mail</a> 
 
+<!--
 <a href="https://www.linkedin.com/in/natalia-aparecida-tavares" target="_blank">
   <img src="linkedin.PNG"  width="120" height="120" style="margin-right: 30px" >
 </a>
@@ -21,6 +22,7 @@ Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob
  <img align="right" width="400px" src="Completed steps-amico.png"> </a>
  
  <br><br>
+-->
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
 
